@@ -27,4 +27,4 @@ Python • C++ • SQL • Git • Numerical Methods • Simulation Design
 ---
 
 ## Long-Term Direction
-Quantum computing and AI/ML systems capable of genuine reasoning and understanding beyond purely probabilistic methods.
+Currently building foundations in science and computation with long-term interests in quantum computing and AI research.
