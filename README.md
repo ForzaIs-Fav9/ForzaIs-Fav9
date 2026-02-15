@@ -13,8 +13,11 @@ JEE student exploring physics, chemistry, and mathematics through computation, s
 ---
 
 ## Projects
-• **PhenoGraph Reasoner** — AI assistant exploring reasoning over complex data  
-• **MechLang** — semantic representation language for organic chemistry mechanisms  
+• **Computational Physics Lab** — Numerical modeling and simulation of physical systems for experimentation and analysis.
+
+• **MechLang** — Text-based semantic language for representing organic chemistry reactions and curved-arrow mechanisms.
+
+• **PhenoGraph Reasoner** — Experimental AI system exploring reasoning over complex multimodal symptom and condition data.
 
 ---
 
